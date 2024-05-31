@@ -1,0 +1,82 @@
+{
+ "roommates": [
+  {
+   "id": "2575e553-afa5-453a-92dd-a41032aca77f",
+   "nombre": "Walter Willis",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "aa57c0f1-f125-499d-aef2-6292168546fb",
+   "nombre": "Terri Schmidt",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "06a357d4-2690-4328-a24f-d68642b442eb",
+   "nombre": "Massimiliano Roussel",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "a6cc61e8-79be-4086-906f-8176c39bf647",
+   "nombre": "Lester Weaver",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "4210e4d5-f15f-4295-9c04-52613d4a2cbb",
+   "nombre": "Jostein Jordet",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "d4d064e4-3277-4a1d-b3ec-0a437af996b2",
+   "nombre": "Katherine Hopkins",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "28273235-6468-41ef-8ac9-66877148bcfd",
+   "nombre": "Toledo Cavalcanti",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "1c3fc640-cb0d-4801-83ac-4d4396a6b8f1",
+   "nombre": "Lillian Hoffman",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "78dbb0d6-b3e7-46cb-97de-92e4827e6d43",
+   "nombre": "Eetu Lassila",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "6ff5eb10-5c6f-419a-8764-79646eff6da7",
+   "nombre": "Marinko Ivanović",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "1f573480-4cc4-491d-916e-eab2f8f375ba",
+   "nombre": "Nouschka Lafeber",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "0bb31183-823c-4d96-a688-856d15b123d0",
+   "nombre": "Zachary Hall",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "eb590247-41ff-41df-8982-de426116b8a3",
+   "nombre": "Nihal Sarıoğlu",
+   "debe": "",
+   "recibe": ""
+  }
+ ]
+}
